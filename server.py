@@ -1,5 +1,4 @@
 import os
-import requests
 import socket
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import http.server
